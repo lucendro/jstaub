@@ -1,26 +1,69 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+	--background: #ffffff;
+	--foreground: #0b1d3d;
+	--primary-50:  #e8efff;
+	--primary-100: #d2dfff;
+	--primary-200: #aac0ff;
+	--primary-300: #84a3ff;
+	--primary-400: #5d85ff;
+	--primary-500: #3567ff; /* strong primary blue */
+	--primary-600: #1f54e6;
+	--primary-700: #1844bf;
+	--primary-800: #133799;
+	--primary-900: #0f2e80;
+	--primary-950: #0a1f59;
+	--accent-50:  #e6fbff;
+	--accent-100: #c9f5ff;
+	--accent-200: #97ecff;
+	--accent-300: #64e2ff;
+	--accent-400: #33d9ff;
+	--accent-500: #00cfff; /* strong accent cyan */
+	--accent-600: #00a6cc;
+	--accent-700: #0083a3;
+	--accent-800: #006a85;
+	--accent-900: #00566c;
+	--accent-950: #003a49;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+	--color-background: var(--background);
+	--color-foreground: var(--foreground);
+	--font-sans: var(--font-roboto);
+	--color-primary-50: var(--primary-50);
+	--color-primary-100: var(--primary-100);
+	--color-primary-200: var(--primary-200);
+	--color-primary-300: var(--primary-300);
+	--color-primary-400: var(--primary-400);
+	--color-primary-500: var(--primary-500);
+	--color-primary-600: var(--primary-600);
+	--color-primary-700: var(--primary-700);
+	--color-primary-800: var(--primary-800);
+	--color-primary-900: var(--primary-900);
+	--color-primary-950: var(--primary-950);
+	--color-accent-50: var(--accent-50);
+	--color-accent-100: var(--accent-100);
+	--color-accent-200: var(--accent-200);
+	--color-accent-300: var(--accent-300);
+	--color-accent-400: var(--accent-400);
+	--color-accent-500: var(--accent-500);
+	--color-accent-600: var(--accent-600);
+	--color-accent-700: var(--accent-700);
+	--color-accent-800: var(--accent-800);
+	--color-accent-900: var(--accent-900);
+	--color-accent-950: var(--accent-950);
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+	:root {
+		--background: #0a1f59;
+		--foreground: #e6f0ff;
+	}
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+	background: var(--background);
+	color: var(--foreground);
+	font-family: var(--font-roboto), system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
 }
