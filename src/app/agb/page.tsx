@@ -11,7 +11,7 @@ export default function AgbPage() {
         <div>
           <h2 className="text-lg font-medium mb-2">1. Scope</h2>
           <p>
-            These General Terms and Conditions (GTC) apply to all consulting services provided by the sole proprietorship JStaub, 6490 Andermatt, Switzerland ("Consultant"), unless otherwise agreed in writing.
+            These General Terms and Conditions (GTC) apply to all consulting services provided by the sole proprietorship JStaub, 6490 Andermatt, Switzerland (&quot;Consultant&quot;), unless otherwise agreed in writing.
           </p>
         </div>
 

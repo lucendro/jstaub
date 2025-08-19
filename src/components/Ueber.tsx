@@ -17,7 +17,7 @@ export default function Ueber() {
         </div>
         <div className="text-primary-900 max-w-3xl mx-auto space-y-4 text-center">
           <p>
-            I'm Janick Staub – founder of JStaub. With 10+ years of experience in sales, business development, and key account management across multiple industries, I bring practical insight into how businesses grow – and where they get stuck.
+            I&apos;m Janick Staub – founder of JStaub. With 10+ years of experience in sales, business development, and key account management across multiple industries, I bring practical insight into how businesses grow – and where they get stuck.
           </p>
           <p>
             I currently support venture capital firms and early-stage founders as an independent consultant. I focus on strategic clarity, honest feedback, and execution support where it matters most.

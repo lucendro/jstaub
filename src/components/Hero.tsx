@@ -14,7 +14,7 @@ export default function Hero() {
             Strategic support for startups, investors, and growing ventures.
           </p>
           <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
-            <a href="#contact" className="rounded-2xl bg-accent-500 text-primary-950 px-4 py-2 hover:bg-accent-400">→ Let's Connect</a>
+            <a href="#contact" className="rounded-2xl bg-accent-500 text-primary-950 px-4 py-2 hover:bg-accent-400">→ Let&apos;s Connect</a>
           </div>
         </div>
       </div>
