@@ -10,7 +10,7 @@ export default function Impressum() {
       <section className="space-y-2 text-sm leading-relaxed">
         <p><strong>Company:</strong> Sole proprietorship JStaub</p>
         <p><strong>Registered Office:</strong> 6490 Andermatt, Canton Uri, Switzerland</p>
-        <p><strong>Email:</strong> hello@jstaub.ch</p>
+        <p><strong>Email:</strong> janick@jstaub.ch</p>
         <p><strong>Responsible for the content of this website:</strong> JStaub</p>
         <p><strong>Jurisdiction:</strong> Andermatt, Uri, Switzerland</p>
       </section>

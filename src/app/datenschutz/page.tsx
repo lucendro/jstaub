@@ -21,7 +21,7 @@ export default function PrivacyPolicy() {
         <p>
           Sole proprietorship JStaub<br />
           6490 Andermatt, Uri, Switzerland<br />
-          Email: hello@jstaub.ch
+          Email: janick@jstaub.ch
         </p>
       </section>
 
@@ -73,7 +73,7 @@ export default function PrivacyPolicy() {
           <li>Withdraw consent at any time</li>
         </ul>
         <p className="text-sm">
-          To exercise these rights, please contact us at hello@jstaub.ch.
+          To exercise these rights, please contact us at janick@jstaub.ch.
         </p>
       </section>
 
