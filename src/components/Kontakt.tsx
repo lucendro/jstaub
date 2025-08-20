@@ -5,7 +5,8 @@ export default function Kontakt() {
       <p className="mt-2 text-primary-900 max-w-2xl mx-auto">Always here to support you.</p>
       <div className="mt-6 space-y-2 text-primary-900">
         <div>
-          Email: <a className="underline hover:text-primary-700" href="mailto:hello@jstaub.ch">hello@jstaub.ch</a>
+          {/* Updated email address */}
+          Email: <a className="underline hover:text-primary-700" href="mailto:janick@jstaub.ch">janick@jstaub.ch</a>
         </div>
       </div>
     </section>
