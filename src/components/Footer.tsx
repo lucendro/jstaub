@@ -16,8 +16,9 @@ export default function Footer() {
         </div>
         <div>
           <div className="font-medium">Contact</div>
+          {/* Updated email address */}
           <ul className="mt-2 space-y-1 text-primary-900">
-            <li>Email: hello@jstaub.ch</li>
+            <li>Email: janick@jstaub.ch</li>
             <li>Address: Schlössliweg 4, 6490 Andermatt</li>
           </ul>
         </div>
